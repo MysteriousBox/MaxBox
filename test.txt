@@ -27,3 +27,5 @@ Here's a bug.
 
 >>>>>>> master
 
+
+This is new function...
