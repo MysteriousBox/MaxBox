@@ -12,10 +12,11 @@ Master....Multiverse....
 
 Multiverse.... 
 
-<<<<<<< HEAD
+
 modification complete...
-=======
+
 Are you OK?
 
-Here's a bug.
->>>>>>> dev
+
+
+
