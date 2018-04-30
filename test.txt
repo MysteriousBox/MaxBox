@@ -12,9 +12,18 @@ Master....Multiverse....
 
 Multiverse.... 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> master
 modification complete...
 
 Are you OK?
 
+<<<<<<< HEAD
 Here's a bug.
+=======
+
+
+>>>>>>> master
 
