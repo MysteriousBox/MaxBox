@@ -1,0 +1,19 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <removed_mapping ext="ini" approved="true" type="Ini" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="invoiceData" type="PLAIN_TEXT" />
+      <mapping ext="10" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
+      <mapping pattern="Student.hbm" type="XML" />
+      <mapping pattern="myProcess.bpmn" type="XML" />
+      <mapping pattern="requestProcess.bpmn20" type="XML" />
+      <mapping pattern="myProcess" type="XML" />
+      <mapping ext="hbm" type="XML" />
+      <removed_mapping ext="ini" approved="true" type="Ini" />
+    </extensionMap>
+  </component>
+</application>

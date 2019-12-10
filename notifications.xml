@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Source searcher" shouldLog="false" />
+  </component>
+</application>
